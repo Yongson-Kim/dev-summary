@@ -19,7 +19,27 @@
 
 # Django
 
+* [Django 문서](https://docs.djangoproject.com/ko/3.2/)
+* [Django 개발 환경 세팅하기](https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/development_environment)
+
+## Django REST Framework
+
+* [Django REST Framework](https://www.django-rest-framework.org/)
+
+## NGINX
+
+* [NGINX 소개](https://www.opentutorials.org/module/384/3462)
+
+------
+
 # REST, API
+
+* [REST란? REST API란? RESTful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
+* [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
+
+## GraphQL
+
+* [Introduction to GraphQL](https://graphql.org/learn/)
 
 # React
 
@@ -34,7 +54,11 @@
 
 # Git/GitHub
 
+## Branch 관리 전략
+
 # Markdown
+
+* [마크다운(Markdown) 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 # 방법론
 
