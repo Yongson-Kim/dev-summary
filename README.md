@@ -7,11 +7,19 @@
 ## pip
 * [Requirements Files](https://pip.pypa.io/en/stable/user_guide/#requirements-files)
 
+## Virutalenv
+
+* [venv — 가상 환경 생성](https://docs.python.org/ko/3/library/venv.html)
+* [가상 환경 및 패키지](https://docs.python.org/ko/3/tutorial/venv.html)
+* [파이썬에서 venv로 가상 환경 사용하기](https://www.daleseo.com/python-venv/)
+* [파이썬 가상환경 venv 사용하기 (패키지 쉽게 관리하기)](http://hleecaster.com/python-venv/)
+* [Python패키지 목록 requirements.txt 관리하기](https://buttercoconut.xyz/216/)
+
 ## Python 강좌
 
 # Django
 
-# REST, RESTful API
+# REST, API
 
 # React
 
@@ -19,7 +27,10 @@
 
 # MSA
 
+* [What are microservices?](https://microservices.io/)
+* [A pattern language for microservices](https://microservices.io/patterns/index.html)
 * [MSA 관련 글 총정리](https://www.popit.kr/마이크로-서비스-관련-글-총정리/)
+* [MSA 제대로 이해하기](https://velog.io/@tedigom/series/MSA-제대로-이해하기)
 
 # Git/GitHub
 
