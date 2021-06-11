@@ -52,6 +52,12 @@
 * [MSA 관련 글 총정리](https://www.popit.kr/마이크로-서비스-관련-글-총정리/)
 * [MSA 제대로 이해하기](https://velog.io/@tedigom/series/MSA-제대로-이해하기)
 
+## MSA Patterns
+
+### Decomposition - DDD
+
+### Data management - API Composition
+
 # Git/GitHub
 
 ## Branch 관리 전략
