@@ -7,13 +7,14 @@
 ## pip
 * [Requirements Files](https://pip.pypa.io/en/stable/user_guide/#requirements-files)
 
-## Virutalenv
+## venv (가상환경)
 
 * [venv — 가상 환경 생성](https://docs.python.org/ko/3/library/venv.html)
 * [가상 환경 및 패키지](https://docs.python.org/ko/3/tutorial/venv.html)
 * [파이썬에서 venv로 가상 환경 사용하기](https://www.daleseo.com/python-venv/)
 * [파이썬 가상환경 venv 사용하기 (패키지 쉽게 관리하기)](http://hleecaster.com/python-venv/)
 * [Python패키지 목록 requirements.txt 관리하기](https://buttercoconut.xyz/216/)
+* [](https://carmack-kim.tistory.com/91)
 
 ## Python 강좌
 
@@ -21,6 +22,20 @@
 
 * [Django 문서](https://docs.djangoproject.com/ko/3.2/)
 * [Django 개발 환경 세팅하기](https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/development_environment)
+* [Django-environ](https://django-environ.readthedocs.io/en/latest/)
+
+## Python venv + Django 
+
+* [Django :: 장고 설치하기, 가상 환경 설정 (윈도우, Window 10)](https://hongku.tistory.com/258)
+* [가상환경과 장고설치](https://velog.io/@hanmin_ss/Django-01.-가상환경과-장고설치)
+* [[파이썬/장고] 맥(Mac) 파이썬 장고 가상환경 생성/설정](https://curryyou.tistory.com/140)
+
+* https://potensj.tistory.com/73
+
+## Troubleshooting
+* https://www.takjakim.kr/macos/pip_install
+* https://dailyheumsi.tistory.com/33
+
 
 ## Django REST Framework
 
