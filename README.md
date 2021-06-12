@@ -102,3 +102,11 @@
   * [Execution & Control편-성과측정과 산출물관리](https://engineering-skcc.github.io/agile-quickguide/Agile-QuickGuide15-성과측정/)
 
 # etc
+
+
+
+
+# 정리 필요
+
+* [React와 Django로 웹 서비스 뚝딱 세팅하기](http://milooy.github.io/TIL/Django/react-with-django-rest-framework.html)
+* [Progressive Web App (feat. React, Django)](https://www.slideshare.net/jayjin0427/progressive-web-app-feat-react-django-82499585)
