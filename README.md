@@ -26,7 +26,7 @@
 
 ## Python venv + Django 
 
-* [가상환경에서 Django 설치 및 환경 복원](django_dev.md)
+* [가상환경에서 Django 설치 및 환경 복원](django_env.md)
 * [Django :: 장고 설치하기, 가상 환경 설정 (윈도우, Window 10)](https://hongku.tistory.com/258)
 * [가상환경과 장고설치](https://velog.io/@hanmin_ss/Django-01.-가상환경과-장고설치)
 * [[파이썬/장고] 맥(Mac) 파이썬 장고 가상환경 생성/설정](https://curryyou.tistory.com/140)
