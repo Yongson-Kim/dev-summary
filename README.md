@@ -46,6 +46,24 @@
 
 * [NGINX 소개](https://www.opentutorials.org/module/384/3462)
 
+## Django + NGINX + Docker
+
+* 서버개발자가 되는법
+  * [목차](https://cholol.tistory.com/502?category=966420)
+  * [서버개발자가 되는법](https://cholol.tistory.com/482)
+  * [서버 개발환경 셋팅, AWS EC2만들고 Django 프로젝트 실행해보기](https://cholol.tistory.com/484)
+  * [서버 개발환경 셋팅, Nginx와 uWSGI 설치해서 연결하기 + docker로 mysql 띄우기](https://cholol.tistory.com/485)
+  * [django, nginx 도커로 구동하기](https://cholol.tistory.com/489)
+  * [API만들기, 로그인부터 만들자](https://cholol.tistory.com/497)
+  * [API만들기, 분석/설계 단계](https://cholol.tistory.com/501)
+  * [To-Do 앱 만들기 [1], 기획과 화면을 보고 만들어보기](https://cholol.tistory.com/511)
+  * [To-Do 앱 만들기 [2], 기획과 화면을 보고 만들어보기](https://cholol.tistory.com/514)
+  * [To-Do 앱 만들기 [3], To-Do 리스트 조회 및 페이징처리](https://cholol.tistory.com/517)
+  * [To-Do 앱 만들기 [4], 공통 처리 영역 만들기](https://cholol.tistory.com/523)
+  * [로그의 중요성, Django에서 Log 남기기](https://cholol.tistory.com/528)
+
+
+
 ------
 
 # REST, API
