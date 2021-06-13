@@ -42,4 +42,5 @@ project_root_name $ source ./venv_name/bin/activate
 ```bash
 (devenv) project_root_name $ pip install -r requirements.txt
 (devenv) project_root_name $ python3 manage.py makemigrations
+(devenv) project_root_name $ python3 manage.py migrate
 ```
