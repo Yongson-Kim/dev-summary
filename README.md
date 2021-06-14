@@ -23,6 +23,8 @@
 * [Django 문서](https://docs.djangoproject.com/ko/3.2/)
 * [Django 개발 환경 세팅하기](https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/development_environment)
 * [Django-environ](https://django-environ.readthedocs.io/en/latest/)
+* [Django Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-django)
+
 
 ## Python venv + Django 
 
