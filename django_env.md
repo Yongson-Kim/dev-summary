@@ -9,29 +9,29 @@ $ cd project_root_name
 
 ## 가상환경 생성
 
-* 가상환경명: `devenv`
+* 가상환경명: `venv`
 
 ```bash
 project_root_name $ python3 -m venv devenv
 project_root_name $ source ./venv_name/bin/activate
-(devenv) project_root_name $
+(venv) project_root_name $
 ```
 
 ## Django 및 관련 모듈 설치
 
-**가상환경(devenv)**에서 실행
+**가상환경(venv)**에서 실행
 
 ```bash
-(devenv) project_root_name $ pip install django
-(devenv) project_root_name $ pip install django-environ
-(devenv) project_root_name $ pip install django-bootstrap4
+(venv) project_root_name $ pip install django
+(venv) project_root_name $ pip install django-environ
+(venv) project_root_name $ pip install django-bootstrap4
 ```
 
 가상환경에서 사용한 종속성 목록 생성
 프로젝트 루트 디렉토리에서 실행
 
 ```bash
-(devenv) project_root_name $ pip freeze > requirements.txt
+(venv) project_root_name $ pip freeze > requirements.txt
 ```
 
 ## 기존 소스를 새로받을 경우
@@ -40,9 +40,9 @@ project_root_name $ source ./venv_name/bin/activate
 * Model 생성 (sqlite)
 
 ```bash
-(devenv) project_root_name $ pip install -r requirements.txt
-(devenv) project_root_name $ python3 manage.py makemigrations
-(devenv) project_root_name $ python3 manage.py migrate
+(venv) project_root_name $ pip install -r requirements.txt
+(venv) project_root_name $ python3 manage.py makemigrations
+(venv) project_root_name $ python3 manage.py migrate
 ```
 
 
@@ -53,3 +53,10 @@ project_root_name $ source ./venv_name/bin/activate
 ## Debugging
 
 
+
+
+## Nginx - Gunicorn - Django
+
+Docker Volume
+- Bind Volume
+- Named Volume
