@@ -23,6 +23,8 @@
 * [Django 문서](https://docs.djangoproject.com/ko/3.2/)
 * [Django 개발 환경 세팅하기](https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/development_environment)
 * [Django-environ](https://django-environ.readthedocs.io/en/latest/)
+* [Django Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-django)
+
 
 ## Python venv + Django 
 
@@ -41,6 +43,7 @@
 ## Django REST Framework
 
 * [Django REST Framework](https://www.django-rest-framework.org/)
+* [Django REST Framework 튜토리얼](https://butter-shower.tistory.com/51?category=718374)
 
 ## Django bootstrap4
 
