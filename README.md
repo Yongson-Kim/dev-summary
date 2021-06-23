@@ -39,11 +39,15 @@
 * https://www.takjakim.kr/macos/pip_install
 * https://dailyheumsi.tistory.com/33
 
+## Django + PostgreSQL
+
+* [Django Postgres 연결하기](https://velog.io/@unani92/Django-Django-Postgres-연결하기)
 
 ## Django REST Framework
 
 * [Django REST Framework](https://www.django-rest-framework.org/)
 * [Django REST Framework 튜토리얼](https://butter-shower.tistory.com/51?category=718374)
+* [RESTful API in Django](https://berkbach.com/restful-api-in-django-16fc3fb1a238)
 
 ## Django bootstrap4
 
